@@ -1,7 +1,9 @@
 
-### Project Description: Supermarket Sales Dashboard - 2019
+###Supermarket Sales Data Analysis(Intractive Dashboard Creation Using MS Excel)
 
-This project involves the creation of a dynamic and interactive **Supermarket Sales Dashboard** using Microsoft Excel. The dashboard provides a detailed analysis of sales performance across various product lines, cities, customer types, and payment methods. The visualizations enable businesses to gain valuable insights into sales patterns and customer preferences, enhancing decision-making capabilities.
+##Project Objective :
+  
+This project involves the creation of a dynamic and interactive **Supermarket Sales Dashboard** for sales report 2019. The dashboard provides a detailed analysis of sales performance across various product lines, cities, customer types, and payment methods. The visualizations enable businesses to gain valuable insights into sales patterns and customer preferences, enhancing decision-making capabilities.
 
 
 #### Features of the <a href='https://github.com/Vidhuneyy/Supermarket_Sales_Analysis-Dashboard/blob/main/Dashboard%20Output.png'>Dashboard</a>:
