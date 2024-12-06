@@ -4,7 +4,7 @@
 This project involves the creation of a dynamic and interactive **Supermarket Sales Dashboard** using Microsoft Excel. The dashboard provides a detailed analysis of sales performance across various product lines, cities, customer types, and payment methods. The visualizations enable businesses to gain valuable insights into sales patterns and customer preferences, enhancing decision-making capabilities.
 
 
-#### Features of the Dashboard:
+#### Features of the <a href='https://github.com/Vidhuneyy/Supermarket_Sales_Analysis-Dashboard/blob/main/Dashboard%20Output.png'>Dashboard</a>:
 1. **Total Sales Overview**:
    - Highlights the total sales figures categorized by product lines and cities.
    - Pie and bar charts provide a clear representation of the sales distribution.
