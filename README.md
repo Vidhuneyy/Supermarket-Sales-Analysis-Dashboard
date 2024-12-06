@@ -5,7 +5,8 @@
   
 This project involves the creation of a dynamic and interactive **Supermarket Sales Dashboard** for sales report 2019. The dashboard provides a detailed analysis of sales performance across various product lines, cities, customer types, and payment methods. The visualizations enable businesses to gain valuable insights into sales patterns and customer preferences, enhancing decision-making capabilities.
 
-### Dataset used
+### Dataset used :
+<a href='https://github.com/Vidhuneyy/Supermarket_Data_Analysis/blob/main/SuperMarket%20Sales%20Dashboard%20.xlsx'>Dataset</a>
 
 
 #### Features of the <a href='https://github.com/Vidhuneyy/Supermarket_Sales_Analysis-Dashboard/blob/main/Dashboard%20Output.png'>Dashboard</a>:
