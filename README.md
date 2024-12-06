@@ -39,6 +39,8 @@ This project involves the creation of a dynamic and interactive **Supermarket Sa
 7. **Interactivity**:
    - Includes slicers for filtering data dynamically by branch, city, product line, payment type, and customer demographics.
 
+### Dashboard :
+
 #### Use Cases:
 - **Business Insights**: Helps supermarket managers and stakeholders understand key sales drivers.
 - **Strategic Decision-Making**: Provides data to plan promotions, product focus, and customer targeting.
