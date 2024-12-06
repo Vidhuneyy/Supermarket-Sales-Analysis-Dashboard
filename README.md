@@ -9,7 +9,7 @@ This project involves the creation of a dynamic and interactive **Supermarket Sa
 <a href='https://github.com/Vidhuneyy/Supermarket_Data_Analysis/blob/main/Supermarket%20Sales%20Report.xlsx'>Supermarket Sales Dataset</a>
 
 
-#### Features of the <a href='https://github.com/Vidhuneyy/Supermarket_Sales_Analysis-Dashboard/blob/main/Dashboard%20Output.png'>Dashboard</a>:
+#### Features of the Dashboard :
 1. **Total Sales Overview**:
    - Highlights the total sales figures categorized by product lines and cities.
    - Pie and bar charts provide a clear representation of the sales distribution.
@@ -40,6 +40,8 @@ This project involves the creation of a dynamic and interactive **Supermarket Sa
    - Includes slicers for filtering data dynamically by branch, city, product line, payment type, and customer demographics.
 
 ### Dashboard :
+![Dashboard Output](https://github.com/user-attachments/assets/252e087f-9ff4-42e0-a9f9-9f202065cc91)
+
 
 #### Use Cases:
 - **Business Insights**: Helps supermarket managers and stakeholders understand key sales drivers.
